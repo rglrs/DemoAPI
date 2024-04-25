@@ -1,0 +1,36 @@
+{
+    "user1": {
+      "id":1,
+      "nama":"Ragil",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"0816562115"
+    },
+
+    "user2": {
+      "id":2,
+      "nama":"Ojan",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"0801098028102"
+    },
+
+    "user3": {
+      "id":3,
+      "nama":"Awang",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"0817802710281"
+    },
+
+    "user4": {
+      "id":4,
+      "nama":"Isa",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"08161731683133"
+    },
+
+    "user5": {
+      "id":5,
+      "nama":"Angel",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"08992182813966"
+    }
+  }
